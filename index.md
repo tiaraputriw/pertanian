@@ -5,7 +5,6 @@ title: KKN Tim 90 - Kelompok 3
 
 <div class="container mt-5">
   <div class="row">
-    <!-- Kolom kiri -->
     <div class="col-md-6 d-flex align-items-center">
       <main class="main container py-4">
         <h2>Selamat Datang di Website KKN Tim 90 Kelompok 3 Undip - Dukuh Kupo</h2>
